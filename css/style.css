@@ -1,3 +1,11 @@
 .make-it-pop {
     filter: drop-shadow(0 0 10px purple);
-  }
+}
+
+.rounded-image {
+  border-radius: 50%;
+  height: 15rem;
+  width: 15rem;
+  margin-bottom: 2rem;
+  object-fit: cover;
+}
